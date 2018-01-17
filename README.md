@@ -1,5 +1,7 @@
 # Find By
 
+[![Build Status](https://travis-ci.org/MoritzKn/find-by.svg?branch=master)](https://travis-ci.org/MoritzKn/find-by)
+
 Small (> 200 byte gzipped) helper to assist you with finding/filtering
 elements in an array by a specific key:
 
