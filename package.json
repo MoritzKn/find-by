@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "find-by",
   "version": "0.1.0",
   "description": "Small helper for find elements in an array by a key",
   "main": "index.js",
