@@ -4,8 +4,8 @@
   "description": "Small helper for find elements in an array by a key",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest",
-    "lint": "npx eslint ."
+    "test": "./node_modules/.bin/jest",
+    "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
