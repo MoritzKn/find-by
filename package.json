@@ -1,0 +1,38 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "Small helper for find elements in an array by a key",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "lint": "npx eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MoritzKn/find-by.git"
+  },
+  "keywords": [
+    "find",
+    "filter",
+    "helper"
+  ],
+  "author": "MoritzKn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoritzKn/find-by/issues"
+  },
+  "homepage": "https://github.com/MoritzKn/find-by#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "jest": "^22.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
