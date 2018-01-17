@@ -1,8 +1,11 @@
 /**
- * [by description]
- * @param   {[type]} key   [description]
- * @param   {[type]} value [description]
- * @returns {[type]}       [description]
+ * Helper for finding elements by a specific key
+ * E.g. [{ title: 'foo' }, { title: 'bar' }].find('title', 'bar')
+ * => { title: 'bar' }
+ *
+ * @param   {string} key
+ * @param   {+}      value
+ * @returns {Function}
  */
 function by (key, value) {
   return function (item) {
