@@ -3,7 +3,15 @@
 [![Build Status](https://travis-ci.org/MoritzKn/find-by.svg?branch=master)](https://travis-ci.org/MoritzKn/find-by)
 
 Small helper to assist you with finding/filtering elements in an
-array by a specific key:
+array by a specific key.
+
+## Install
+
+```
+npm install find-by --save
+```
+
+## Example
 
 ```js
 const by = require('find-by')
