@@ -1,6 +1,6 @@
 /**
  * Helper for finding elements by a specific key
- * E.g. [{ title: 'foo' }, { title: 'bar' }].find('title', 'bar')
+ * E.g. [{ title: 'foo' }, { title: 'bar' }].find(by('title', 'bar'))
  * => { title: 'bar' }
  *
  * @param   {string} key
