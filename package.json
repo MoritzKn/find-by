@@ -1,6 +1,6 @@
 {
   "name": "find-by",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Small helper for finding elements in an array by a key",
   "main": "index.js",
   "scripts": {
